@@ -1,0 +1,12 @@
+Prisma Cloud is a comprehensive cloud-native security platform with the industry’s broadest security and compliance coverage. 
+It protects cloud native applications, data, network, compute, storage, users, and higher-level PaaS services across cloud platforms. 
+Prisma Cloud enables Cloud Security Posture Management (CSPM) and Cloud Workload Protection Platform (CWPP) for comprehensive visibility and threat detection across your organization’s hybrid, multi-cloud infrastructure. 
+It dynamically discovers resources as they are deployed and correlates cloud-service-provided data to enable security and compliance insights into your cloud applications and workloads.
+
+In this activity, you will:
+● Log in to Prisma Cloud Lab account
+● Learn about the Prisma Cloud console and help center
+● Review how to on-board a AWS account on Prisma Cloud tenant
+● Review out of the box policies, queries, compliance standards and remediations
+
+Note: This is a standalone activity and is not dependent on other activities.
